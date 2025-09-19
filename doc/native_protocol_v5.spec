@@ -1048,7 +1048,7 @@ Table of Contents
 
 5. Data Type Serialization Formats
 
-  This sections describes the serialization formats for all CQL data types
+  This section describes the serialization formats for all CQL data types
   supported by Cassandra through the native protocol.  These serialization
   formats should be used by client drivers to encode values for EXECUTE
   messages.  Cassandra will use these formats when returning values in
